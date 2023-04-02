@@ -1,2 +1,3 @@
-This is my first python project and it is a working calendar 
+This is a calendar with the ability to store events using python 
+
 
